@@ -6,7 +6,7 @@ age = 2026 - birth
 print(age)
 
 
-# Program cek harga pesanan
+# Program pesanan part II
 
 ## kamus lokal
 menu = {

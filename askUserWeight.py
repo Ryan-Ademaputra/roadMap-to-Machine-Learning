@@ -6,6 +6,6 @@ print(type(user))
 convert = (user) * 0.45
 
 
-## Setelah di manipulasi
+## Setelah dimanipulasi
 print(convert)
 print(type(convert))
